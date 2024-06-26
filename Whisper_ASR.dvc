@@ -1,0 +1,5 @@
+outs:
+- md5: ddd2cf3174bd0a6f94fe95f6e9d0b438.dir
+  size: 968928856
+  nfiles: 14
+  path: Whisper_ASR
